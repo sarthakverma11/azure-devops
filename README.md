@@ -1,4 +1,4 @@
-# ci-cd app for MLOps Project V6
+# ci-cd app for MLOps Project V7
 
 ## Project setup
 ```
